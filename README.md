@@ -1,15 +1,6 @@
 # Minor-Project
+This project is based on Preposition Error Detection which can classify the use of preposition in a sentence as correct or incorrect.
 
-Dataset--|
+RandomForest Classifier is used for classification with only 3000 sentences.
 
-          |--train
-          |
-          |--test
-          |
-          |--val
-
-Harshit, Shivam   ----  Prepare Dataset
-
-Devansh  ---- Work on Research Papers
-
-Ayush ---- Work on Architecture and Research Papers
+Works best for simple sentences.
